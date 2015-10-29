@@ -1,7 +1,9 @@
 for kafka-->spark-streaming-->redis
 
 demo:
+
 http://www.ibm.com/developerworks/cn/opensource/os-cn-spark-practice2/index.html?ca=drs-&utm_source=tuicool
+
 http://shiyanjun.cn/archives/1097.html
 
 -----------------
