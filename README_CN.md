@@ -1,3 +1,10 @@
+for kafka-->spark-streaming-->redis
+
+demo:
+http://www.ibm.com/developerworks/cn/opensource/os-cn-spark-practice2/index.html?ca=drs-&utm_source=tuicool
+http://shiyanjun.cn/archives/1097.html
+
+-----------------
 这个项目提供了Kafka Producer 和 High level consumer的例子。
 所有的例子都提供了两个版本: Java版本和Scala版本。 可以用来用作编写Kafka producer和consumer的模板。
 
